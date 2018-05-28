@@ -5,7 +5,7 @@ OTK (SaaS)
 
 .. list-table:: Usecase 1
    :widths: 100 100 100
-   :header-rows: 0
+   :header-rows: 1
 
    *  - Release, R1
    *  - Status, DRAFT
