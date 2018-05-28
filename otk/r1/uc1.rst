@@ -3,13 +3,13 @@ OTK (SaaS) Usecase 1
 *********************
 
 
-.. list-table:: Title
-   :widths: 25 25 50
-   :header-rows: 1
+.. list-table:: Usecase 1
+   :widths: 35 35 70
+   :header-rows: 0
 
    * - Release, R1
-     - Release, R1
-     - Heading row 1, column 3
+     - Status, DRAFT
+     - Stakeholders/Reviewers, M.Jastad, M. Slisinger
    * - Row 1, column 1
      -
      - Row 1, column 3
