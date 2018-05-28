@@ -2,12 +2,7 @@
 OTK (SaaS) 
 **********
 
-
-.. list-table:: Usecase 1
-   :widths: 100 100 100
-   :header-rows: 1
-   
-   .. list-table:: Title
+.. list-table:: Title
    :widths: 25 25 50
    :header-rows: 1
 
