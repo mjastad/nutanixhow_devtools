@@ -4,7 +4,7 @@ OTK (SaaS) Usecase 1
 
 
 .. list-table:: Usecase 1
-   :widths: 35 35 70
+   :widths: 50 50 
    :header-rows: 0
 
    *  - Release, R1
