@@ -7,9 +7,9 @@ OTK (SaaS)
    :widths: 100 100 100
    :header-rows: 1
 
-   *  - Release, R1
-   *  - Status, DRAFT
-   *  - Stakeholders/Reviewers, M.Jastad, M. Slisinger
+   * - Release, R1
+   * - Status, DRAFT
+   * - Stakeholders/Reviewers, M.Jastad, M. Slisinger
    
 
 +-----------------------------+------------------------------------------------------------------------+
