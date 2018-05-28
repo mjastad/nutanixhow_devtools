@@ -7,15 +7,10 @@ OTK (SaaS) Usecase 1
    :widths: 35 35 70
    :header-rows: 0
 
-   * - Release, R1
-     - Status, DRAFT
-     - Stakeholders/Reviewers, M.Jastad, M. Slisinger
-   * - Row 1, column 1
-     -
-     - Row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
+   *  - Release, R1
+   *  - Status, DRAFT
+   *  - Stakeholders/Reviewers, M.Jastad, M. Slisinger
+   
 
 +-----------------------------+------------------------------------------------------------------------+
 | Release                     |  R1                                                                    |
