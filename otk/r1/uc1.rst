@@ -2,14 +2,6 @@
 OTK (SaaS) 
 **********
 
-.. list-table:: Title
-   :widths: 50 50
-
-   * - Heading row 1, column 1
-   * - Row 1, column 1
-   * - Row 2, column 1
-   
-
 
 +-----------------------------+------------------------------------------------------------------------+
 | Pre-Condition               |  System idle - no active configuration                                 |
