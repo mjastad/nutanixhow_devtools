@@ -4,7 +4,6 @@ OTK (SaaS)
 
 .. list-table:: Title
    :widths: 50 50
-   :header-rows: 0
 
    - Heading row 1, column 1
    - Row 1, column 1
