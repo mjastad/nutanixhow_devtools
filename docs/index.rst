@@ -5,7 +5,7 @@
 
 GTE Automation - Design & Architecture
 ======================================
-Vandal is an orchestration engine that operates or is deployed as SaaS and works directly with virtualization, provisioning, converged infrastructure and dynamic datacenter topics. It alignins the business request with the applications, data, and infrastructure. It defines the policies and service levels through automated workflows, provisioning, and change management, creating an application-aligned infrastructure that can be scaled up or down based on the needs of each application. Pprovides centralized management of the resource pool, including metering, and consumption. 
+Vandal is an orchestration engine deployed as SaaS and works directly with virtualization, provisioning, converged infrastructure and dynamic workflows . It aligns business requests with the applications, data, and infrastructure. It defines the policies and service levels through automated workflows, provisioning, and change management, creating an application-aligned infrastructure that can be scaled up or down based on the needs of each application. Provides centralized management of the resource pool, including scheduling, metering, and consumption. 
 
 .. toctree::
    :maxdepth: 2
