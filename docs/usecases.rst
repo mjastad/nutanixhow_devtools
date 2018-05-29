@@ -1,1 +1,1 @@
-.. include:: ./vandal/r1/usecases/uc1.rst
+.. include:: ./vandal/r1/usecase/uc1.rst
