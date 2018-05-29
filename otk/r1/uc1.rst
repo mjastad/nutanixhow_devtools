@@ -3,7 +3,7 @@ OTK (SaaS)
 **********
 
 .. list-table:: Title
-   :widths: 25 25 50
+   :widths: 50 50 100
    :header-rows: 1
 
    * - Heading row 1, column 1
